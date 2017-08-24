@@ -1,0 +1,8 @@
+title: Blocks-o-code
+description: Blocks of Code Project
+google_analytics: UA-60330746-2
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
